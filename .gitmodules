@@ -1,0 +1,6 @@
+[submodule "plugin.video.115"]
+	path = plugin.video.115
+	url = https://github.com/HDPxbmc/plugin.video.115.git
+[submodule "plugin.video.baiduyun"]
+	path = plugin.video.baiduyun
+	url = https://github.com/HDPxbmc/plugin.video.baiduyun.git
