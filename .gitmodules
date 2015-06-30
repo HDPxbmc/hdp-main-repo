@@ -4,3 +4,24 @@
 [submodule "plugin.video.baiduyun"]
 	path = plugin.video.baiduyun
 	url = https://github.com/HDPxbmc/plugin.video.baiduyun.git
+[submodule "plugin.video.douyutv"]
+	path = plugin.video.douyutv
+	url = https://github.com/HDPxbmc/plugin.video.douyutv.git
+[submodule "repository.hdpfans.xbmc-addons-chinese"]
+	path = repository.hdpfans.xbmc-addons-chinese
+	url = https://github.com/HDPxbmc/repository.hdpfans.xbmc-addons-chinese.git
+[submodule "script.module.hdpparser"]
+	path = script.module.hdpparser
+	url = https://github.com/HDPxbmc/script.module.hdpparser.git
+[submodule "plugin.video.hdpsohu"]
+	path = plugin.video.hdpsohu
+	url = https://github.com/HDPxbmc/plugin.video.hdpsohu.git
+[submodule "plugin.video.hdplive"]
+	path = plugin.video.hdplive
+	url = https://github.com/HDPxbmc/plugin.video.hdplive.git
+[submodule "plugin.video.youkutv"]
+	path = plugin.video.youkutv
+	url = https://github.com/HDPxbmc/plugin.video.youkutv.git
+[submodule "plugin.video.courses"]
+	path = plugin.video.courses
+	url = https://github.com/HDPxbmc/plugin.video.courses.git
