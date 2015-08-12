@@ -21,7 +21,7 @@
 	url = https://github.com/HDPxbmc/plugin.video.hdplive.git
 [submodule "plugin.video.youkutv"]
 	path = plugin.video.youkutv
-	url = https://github.com/HDPxbmc/plugin.video.youkutv.git
+	url = https://github.com/catro/plugin.video.youkutv.git
 [submodule "plugin.video.courses"]
 	path = plugin.video.courses
 	url = https://github.com/HDPxbmc/plugin.video.courses.git
