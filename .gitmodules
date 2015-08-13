@@ -25,3 +25,6 @@
 [submodule "plugin.video.courses"]
 	path = plugin.video.courses
 	url = https://github.com/HDPxbmc/plugin.video.courses.git
+[submodule "plugin.video.5ivdo"]
+	path = plugin.video.5ivdo
+	url = https://github.com/HDPxbmc/plugin.video.5ivdo.git
