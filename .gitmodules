@@ -28,3 +28,6 @@
 [submodule "plugin.video.5ivdo"]
 	path = plugin.video.5ivdo
 	url = https://github.com/HDPxbmc/plugin.video.5ivdo.git
+[submodule "script.module.urlresolvercn"]
+	path = script.module.urlresolvercn
+	url = https://github.com/HDPxbmc/script.module.urlresolvercn.git
