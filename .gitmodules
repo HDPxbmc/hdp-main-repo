@@ -31,3 +31,6 @@
 [submodule "script.module.urlresolvercn"]
 	path = script.module.urlresolvercn
 	url = https://github.com/HDPxbmc/script.module.urlresolvercn.git
+[submodule "plugin.video.myclouds"]
+	path = plugin.video.myclouds
+	url = https://github.com/ytan-git/plugin.video.myclouds.git
